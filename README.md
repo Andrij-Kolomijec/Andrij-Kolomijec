@@ -1,21 +1,25 @@
 # Hello there!
 
-I am an aspiring web developer currently more focused on the fronted, but I am also slowly gathering more knowledge on the backend.
+I am an aspiring web developer currently more focused on the frontend development, though I'm also gradually expanding my knowledge of backend technologies.
 
-For now, I'm learning React with TypeScript and their application in the MERN projects.
+Currently, I'm learning React with TypeScript and exploring their applications within the MERN stack projects.
 
-## Skills and tools
-### Technologies I dare to say I know something about already (not meaning I've stopped learning!):
+## Technologies
+### I'm familiar with:
 - React, JavaScript, HTML, CSS
 
-### Technologies I am activelly learning:
+### I'm actively learning:
 - TypeScript, Redux, React Router
 
-### Technologies I use daily but I wouldn't say I am activelly learning about as much as I could:
+### I use daily but am always seeking to deepen my understanding:
 - Node.js (Express), MongoDB (Mongoose), Linux, Vite, VS Code
 
-### Technologies I am came to contact with:
+### I have come into contact with:
 - Python, Webpack, Pug, Firebase
+  
+##
+
+Feel free to reach out if you have any questions or want to collaborate!
 
 <!--
 **Andrij-Kolomijec/Andrij-Kolomijec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
