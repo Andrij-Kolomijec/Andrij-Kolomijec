@@ -11,8 +11,8 @@ Currently, I'm learning React with TypeScript and exploring their applications w
 ### I'm actively learning:
 - TypeScript, Redux, React Router
 
-### I use daily but am always seeking to deepen my understanding:
-- Node.js (Express), MongoDB (Mongoose), Linux, Vite, VS Code
+### I use often but am always seeking to deepen my understanding:
+- Git, Node.js (Express), MongoDB (Mongoose), Linux, Vite, VS Code
 
 ### I have come into contact with:
 - Python, Webpack, Pug, Firebase
