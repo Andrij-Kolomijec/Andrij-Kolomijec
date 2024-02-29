@@ -1,6 +1,6 @@
 # Hello there!
 
-I am an aspiring web developer currently more focused on the frontend development, though I'm also gradually expanding my knowledge of backend technologies.
+I am an aspiring web developer more focused on the frontend at the moment, though I'm also gradually expanding my knowledge of backend technologies.
 
 Currently, I'm learning React with TypeScript and exploring their applications within the MERN stack projects.
 
@@ -19,7 +19,7 @@ Currently, I'm learning React with TypeScript and exploring their applications w
   
 ##
 
-Feel free to reach out if you have any questions or want to collaborate!
+Feel free to reach out if you have any questions or want to collaborate.
 
 <!--
 **Andrij-Kolomijec/Andrij-Kolomijec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
