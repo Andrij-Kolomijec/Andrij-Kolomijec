@@ -20,7 +20,8 @@ Currently, I'm learning React with TypeScript and exploring their applications w
 <!-- - TypeScript, Next.js-->
 
 <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/604b2ee7b350738e7701386c41bac9c3cf6a3037/icons/typescript-original.svg" alt="TypeScript" width="40" title='TypeScript'/></a>
-<a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/824de903420d47094fd4a0b9c62a89b55bcfa45c/icons/nextjs-original.svg" alt="Next.js" width="40" title='Next.js'/></a>
+
+<!-- <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/824de903420d47094fd4a0b9c62a89b55bcfa45c/icons/nextjs-original.svg" alt="Next.js" width="40" title='Next.js'/></a> -->
 
 ### That are parts of my development environment:
 
