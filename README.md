@@ -17,11 +17,10 @@ Currently, I'm learning React with TypeScript and exploring their applications w
 
 ### I'm actively learning:
 
-<!-- - TypeScript, Next.js-->
+<!-- - TypeScript, Framer Motion-->
 
 <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/604b2ee7b350738e7701386c41bac9c3cf6a3037/icons/typescript-original.svg" alt="TypeScript" width="40" title='TypeScript'/></a>
-
-<!-- <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/824de903420d47094fd4a0b9c62a89b55bcfa45c/icons/nextjs-original.svg" alt="Next.js" width="40" title='Next.js'/></a> -->
+<a href="https://www.framer.com/motion/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/6ca4ceef17e6be2489a55e2579476f24affd80b5/icons/framermotion-original.svg" alt="Framer Motion" width="40" title='Framer Motion'/></a>
 
 ### That are parts of my development environment:
 
@@ -43,8 +42,9 @@ Currently, I'm learning React with TypeScript and exploring their applications w
 
 ### I have come into contact with:
 
-<!-- - Python, Pug, Webpack, Firebase -->
+<!-- - Next.js, Python, Pug, Webpack, Firebase -->
 
+<a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/824de903420d47094fd4a0b9c62a89b55bcfa45c/icons/nextjs-original.svg" alt="Next.js" width="40" title='Next.js'/></a>
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/604b2ee7b350738e7701386c41bac9c3cf6a3037/icons/python-original.svg" alt="Python" width="40" title='Python'/></a>
 <a href="https://pugjs.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/604b2ee7b350738e7701386c41bac9c3cf6a3037/icons/pug-original.svg" alt="Pug" width="40" title='Pug'/></a>
 <a href="https://webpack.js.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/604b2ee7b350738e7701386c41bac9c3cf6a3037/icons/webpack-original.svg" alt="Webpack" width="40" title='Webpack'/></a>
