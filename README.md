@@ -4,6 +4,8 @@ I am an aspiring web developer more focused on the frontend at the moment, thoug
 
 Currently, I'm learning React with TypeScript and exploring their applications within the MERN stack projects.
 
+Among all of my projects, _Capital Commander_ stands out as an original creation, conceived without reliance on any tutorial. While the other projects may draw inspiration from various sources, it is important to note that they have been meticulously crafted through independent development endeavors (some, of course, more than others). Each project reflects a commitment to personal growth and learning, with a focus on mastering skills through hands-on exploration and problem-solving.
+
 ## Technologies
 
 ### I'm familiar with:
