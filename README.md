@@ -19,12 +19,10 @@ Among all of my projects, _Capital Commander_ stands out as an original creation
 
 ### I'm actively learning:
 
-<!-- - TypeScript, Framer Motion, Node.js (Express), Tanstack Query-->
+<!-- - TypeScript, PostgreSQL-->
 
 <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/604b2ee7b350738e7701386c41bac9c3cf6a3037/icons/typescript-original.svg" alt="TypeScript" width="40" title='TypeScript'/></a>
-<a href="https://www.framer.com/motion/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/6ca4ceef17e6be2489a55e2579476f24affd80b5/icons/framermotion-original.svg" alt="Framer Motion" width="40" title='Framer Motion'/></a>
-<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/604b2ee7b350738e7701386c41bac9c3cf6a3037/icons/nodejs-original-wordmark.svg" alt="Node.js" width="40" title='Node.js (Express)'/></a>
-<a href="https://tanstack.com/query/latest"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/824de903420d47094fd4a0b9c62a89b55bcfa45c/icons/tanstack-query.svg" alt="Tanstack Query" width="40" title='Tanstack/React Query'/></a>
+<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/9e6cba4a302000fef6863abcedd1fb1d78e3be4f/icons/postgresql.svg" alt="PostgreSQL" width="40" title='PostgreSQL'/></a>
 
 ### That are parts of my development environment:
 
@@ -37,10 +35,13 @@ Among all of my projects, _Capital Commander_ stands out as an original creation
 
 ### I use often but am always seeking to deepen my understanding:
 
-<!-- - MongoDB (Mongoose), Redux (Redux Toolkit)-->
+<!-- - Node.js (Express), Tanstack Query MongoDB (Mongoose), Redux (Redux Toolkit), Framer Motion-->
 
+<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/604b2ee7b350738e7701386c41bac9c3cf6a3037/icons/nodejs-original-wordmark.svg" alt="Node.js" width="40" title='Node.js (Express)'/></a>
+<a href="https://tanstack.com/query/latest"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/824de903420d47094fd4a0b9c62a89b55bcfa45c/icons/tanstack-query.svg" alt="Tanstack Query" width="40" title='Tanstack/React Query'/></a>
 <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/604b2ee7b350738e7701386c41bac9c3cf6a3037/icons/mongodb-original.svg" alt="MongoDB" width="40" title='MongoDB (Mongoose)'/></a>
 <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/604b2ee7b350738e7701386c41bac9c3cf6a3037/icons/redux-original.svg" alt="Redux" width="40" title='Redux (Redux Toolkit)'/></a>
+<a href="https://www.framer.com/motion/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/6ca4ceef17e6be2489a55e2579476f24affd80b5/icons/framermotion-original.svg" alt="Framer Motion" width="40" title='Framer Motion'/></a>
 
 ### I have come into contact with:
 
