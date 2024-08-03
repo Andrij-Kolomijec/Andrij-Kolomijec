@@ -19,10 +19,10 @@ Among all of my projects, _Capital Commander_ stands out as an original creation
 
 ### I'm actively learning:
 
-<!-- - TypeScript, PostgreSQL-->
+<!-- - TypeScript, GraphQL-->
 
 <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/604b2ee7b350738e7701386c41bac9c3cf6a3037/icons/typescript-original.svg" alt="TypeScript" width="40" title='TypeScript'/></a>
-<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/9e6cba4a302000fef6863abcedd1fb1d78e3be4f/icons/postgresql.svg" alt="PostgreSQL" width="40" title='PostgreSQL'/></a>
+<a href="https://graphql.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/961af018f261b170a9c44609f79ce1bd2270acb6/icons/graphql.svg" alt="GraphQL" width="40" title='GraphQL'/></a>
 
 ### That are parts of my development environment:
 
@@ -45,13 +45,14 @@ Among all of my projects, _Capital Commander_ stands out as an original creation
 
 ### I have come into contact with:
 
-<!-- - Next.js, Python, Pug, Webpack, Firebase -->
+<!-- - Next.js, Python, Pug, Webpack, Firebase, PostgreSQL -->
 
 <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/824de903420d47094fd4a0b9c62a89b55bcfa45c/icons/nextjs-original.svg" alt="Next.js" width="40" title='Next.js'/></a>
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/604b2ee7b350738e7701386c41bac9c3cf6a3037/icons/python-original.svg" alt="Python" width="40" title='Python'/></a>
 <a href="https://pugjs.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/604b2ee7b350738e7701386c41bac9c3cf6a3037/icons/pug-original.svg" alt="Pug" width="40" title='Pug'/></a>
 <a href="https://webpack.js.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/604b2ee7b350738e7701386c41bac9c3cf6a3037/icons/webpack-original.svg" alt="Webpack" width="40" title='Webpack'/></a>
 <a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/604b2ee7b350738e7701386c41bac9c3cf6a3037/icons/firebase-original.svg" alt="Firebase" width="40" title='Firebase'/></a>
+<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/Andrij-Kolomijec/Andrij-Kolomijec/9e6cba4a302000fef6863abcedd1fb1d78e3be4f/icons/postgresql.svg" alt="PostgreSQL" width="40" title='PostgreSQL'/></a>
 
 ##
 
